@@ -153,7 +153,7 @@
 
       const onBscBTCB = () => {
         setFieldsValue({
-          address: '0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c',
+          address: '0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c',
           token_name: 'BTCB',
           market_name: 'BTC',
           precision: 18,
@@ -173,7 +173,7 @@
 
       const onBscUSDC = () => {
         setFieldsValue({
-          address: '0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d',
+          address: '0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d',
           token_name: 'USDC',
           market_name: 'USDT',
           precision: 18,
@@ -183,7 +183,7 @@
 
       const onOptWBTC = () => {
         setFieldsValue({
-          address: '0x68f180fcce6836688e9084f035309e29bf0a2095',
+          address: '0x68f180fcCe6836688e9084f035309E29Bf0A2095',
           token_name: 'WBTC',
           market_name: 'BTC',
           precision: 8,
@@ -244,7 +244,7 @@
 
       const onEthWBTC = () => {
         setFieldsValue({
-          address: '0x2260fac5e5542a773aa44fbcfedf7c193bc2c599',
+          address: '0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599',
           token_name: 'WBTC',
           market_name: 'BTC',
           precision: 8,
@@ -254,7 +254,7 @@
 
       const onEthWETH = () => {
         setFieldsValue({
-          address: '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2',
+          address: '0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2',
           token_name: 'WETH',
           market_name: 'ETH',
           precision: 18,
@@ -264,7 +264,7 @@
 
       const onEthUSDC = () => {
         setFieldsValue({
-          address: '0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48',
+          address: '0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48',
           token_name: 'USDC',
           market_name: 'USDT',
           precision: 18,
